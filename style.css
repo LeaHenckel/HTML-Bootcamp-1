@@ -1,0 +1,38 @@
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+  }
+
+  h1 {
+    font-family: 'Tangerine', 'Tilt Prism', serif;
+  }
+
+  h3 {
+    font-family: 'Crimson Pro', serif;
+  }
+
+  .picture {
+    width: 300px; /* Picture made smaller as requested in CSS Bootcamp #1 */
+  }
+
+  li:hover { 
+    color: blue; /* pseudo-selectors used to make the text blue when hovered */
+  }
+
+  h6 {
+    color: blueviolet;
+  }
+
+
+  /* As requested, distance created between several elements.*/
+  .custom-section {
+    margin-bottom: 60px; /* Adds space at the bottom of the section */
+  }
+  
+  nav {
+    margin-top: 60px; /* Adds space at the top of the nav */
+  }
+  
+  footer {
+    margin-top: 60px; /* Adds space at the top of the footer */
+  }
